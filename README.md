@@ -1,29 +1,28 @@
 # Android_AddressBook
 
 Index page
-![](https://github.com/GitDidNotExitCleanly/Android_AddressBook/tree/master/Appearance/1.png)
+![Alt text](Appearance/1.png?raw=true "")
 
 Add new contact page
-![](https://github.com/GitDidNotExitCleanly/Android_AddressBook/tree/master/Appearance/2.png)
+![Alt text](Appearance/2.png?raw=true "")
 
 Choose photo
-![](https://github.com/GitDidNotExitCleanly/Android_AddressBook/tree/master/Appearance/3.png)
+![Alt text](Appearance/3.png?raw=true "")
 
 Delete photo
-![](https://github.com/GitDidNotExitCleanly/Android_AddressBook/tree/master/Appearance/6.png)
+![Alt text](Appearance/4.png?raw=true "")
 
 Select photo
-![](https://github.com/GitDidNotExitCleanly/Android_AddressBook/tree/master/Appearance/4.png)
+![Alt text](Appearance/5.png?raw=true "")
 
 Crop photo
-![](https://github.com/GitDidNotExitCleanly/Android_AddressBook/tree/master/Appearance/5.png)
+![Alt text](Appearance/6.png?raw=true "")
 
 Contact information display page
-![](https://github.com/GitDidNotExitCleanly/Android_AddressBook/tree/master/Appearance/7.png)
+![Alt text](Appearance/7.png?raw=true "")
 
 Edit page
-![](https://github.com/GitDidNotExitCleanly/Android_AddressBook/tree/master/Appearance/8.png)
+![Alt text](Appearance/8.png?raw=true "")
 
 Delete contact
-![](https://github.com/GitDidNotExitCleanly/Android_AddressBook/tree/master/Appearance/9.png)
-
+![Alt text](Appearance/9.png?raw=true "")
